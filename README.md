@@ -1,5 +1,7 @@
 # blogue
 
+Just playing around with firebase services (hosing, authentication and firestore).
+
 ## Project setup
 ```
 npm install
